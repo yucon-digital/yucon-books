@@ -10,9 +10,11 @@ Dem Benutzer wird gezeigt wenn die App Daten lädt. (z.B. durch eine Progressbar
 Die App soll auf Android und iOS laufen.
 
 #### Architektur
+ - State Management
+ - Lokaler Speicher für die Favoriten
 
- - Auswahl zwischen *mobx* oder *bloc*
- - Lokaler Speicher freie Wahl
+### Zusatz Feature
+ - Ein kleines Feature oder eine Verbesserung nach Wahl
 
 #### Google API
 Reference: https://developers.google.com/books/docs/v1/using
@@ -20,8 +22,10 @@ Reference: https://developers.google.com/books/docs/v1/using
 
     GET https://www.googleapis.com/books/v1/volumes?q=searchQuery&key=yourAPIKey
 #### _____________
+
 #### Bonus
- - Flutter Null-Safety verwenden
+ - Ansprechendes Design
 
 #### Fragen Kontakt
 henrik.thien@yucon-digital.de
+frank.olhof@yucon-digital.de
