@@ -28,4 +28,4 @@ Reference: https://developers.google.com/books/docs/v1/using
 
 #### Fragen Kontakt
 henrik.thien@yucon-digital.de
-frank.olhof@yucon-digital.de
+frank.ohlhof@yucon-digital.de
